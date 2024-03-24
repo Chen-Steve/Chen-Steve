@@ -1,7 +1,7 @@
 # Hello, I'm Steven! 👋
 
 ## 🌱 About Me
-I'm a computer science & statistics undergrad who's passionate about ml/ai and fullstack development. I love to explore new technologies and leverage them to solve real-life problems. I'm currently reading papers about multimodal LLMS, its exciting!
+I'm a computer science & statistics undergrad at UIUC who's passionate about ml/ai and fullstack development. I love to explore new technologies and leverage them to solve real-life problems. I'm currently reading papers about multimodal LLMS, its exciting!
 
 ## 💻 Technologies & Tools
 - Proficient in: `Typescript`, `React`, `Node.js`, `Python`, `Kotlin`, 
