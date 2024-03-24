@@ -11,7 +11,7 @@ I'm a computer science & statistics undergrad who's passionate about ml/ai and f
 - Check out my pinned repos!
 
 ## 🤝 Open Source Contributions
-I've contributed to `[Puter.js]` where I created an particle physics simulator app!
+I've contributed to `Puter.js` where I created an particle physics simulator app!
 
 ## 📫 How to Reach Me
 - LinkedIn: [Steven Chen](https://www.linkedin.com/in/chensteven2077)
