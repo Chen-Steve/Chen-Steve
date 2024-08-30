@@ -1,7 +1,7 @@
 # Hello, I'm Steven! 👋
 
 ## 🌱 About Me
-I'm a computer science & statistics undergrad at UIUC who's passionate about ml/ai and fullstack development. I love to explore new technologies and leverage them to solve real-life problems. I'm currently reading papers about multimodal LLMS, its exciting!
+I'm a computer science & statistics undergrad at UIUC who's passionate about ml/ai and fullstack development.
 
 ## 💻 Technologies & Tools
 - Proficient in: `Typescript`, `React`, `Node.js`, `Python`, `Kotlin`, 
@@ -15,4 +15,4 @@ I've contributed to `Puter.js` where I created an particle physics simulator app
 
 ## 📫 How to Reach Me
 - LinkedIn: [Steven Chen](https://www.linkedin.com/in/chensteven2077)
-- Email: zhangc2@illinois.edu
+- Email: chensteven2077.edu
