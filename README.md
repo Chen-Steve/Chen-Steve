@@ -1,7 +1,9 @@
-I'm a computer science & statistics undergrad at UIUC who's passionate about ml/ai and fullstack development.
+### Steven Chen
+I'm a computer science & statistics undergrad at UIUC.<br>
+Working on Kard
 
-- working on Kard
-- check out particle physics simulator app in puter.js
+### Projects
+- particle physics simulator in [puter.js](https://github.com/heyPuter/puter/)
 
-- LinkedIn: [Steven Chen](https://www.linkedin.com/in/chensteven2077)
-- Email: chensteven2077@gmail.com
+LinkedIn: [Steven Chen](https://www.linkedin.com/in/chensteven2077)  
+Email: chensteven2077@gmail.com
